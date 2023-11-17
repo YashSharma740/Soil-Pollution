@@ -1,0 +1,100 @@
+h1{ 
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-shadow: 2px 1px 5px red;
+
+}
+.b{
+    text-align: center;
+    font-family: Papyrus;
+    color: red; 
+    font-size: larger;
+    margin-top: -50px;
+    
+}
+.z{
+    color: black;
+    font-size: larger;
+}
+
+.XY,.yz,.yq,.yw,.ye,.yr,.yt{
+    color: black;
+    font-size: larger;
+}
+h3,h4,h2{ 
+    color: violet;
+    margin-top: 15px;
+    font-size: x-large;
+    margin-left: 5px;
+}
+.composition{
+    color: black;
+    font-size: larger;
+}
+body{
+    background-color: whitesmoke;
+   /* width: 100px;/*
+   /* margin-left: 35px;
+    margin-right: 35px; */
+    margin: 35px;
+}
+.xy{
+    width: 400px;
+    height: 290px;
+}
+body{
+    background-image: url('image/soilbackground2.jpg');
+    background-repeat: no-repeat;
+    /* object-fit: fill; */
+    background-size: cover;
+    /* background-position: center; */
+    
+    
+  }
+  .j{
+    background-color: white;
+    margin-right: 65px;
+    background-size: cover;
+    background-repeat: repeat;
+  }
+  
+/* .k{
+    background: url(image/soil2.jpg);
+    background-repeat: repeat-y;
+    object-fit: fill;
+} */
+/* footer{
+    color: blueviolet;
+    background-color: brown;
+} */
+.nud{
+    /* display: block; */
+    background-color: black;
+}
+.topnav{
+    background-color: #03ac13;
+    overflow: hidden;
+    margin-top: -17pxpx;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a.active{
+    background-color: white;
+    color: green;
+}
+
+.phd{
+    margin-top: -17px;
+}
